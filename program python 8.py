@@ -5,3 +5,4 @@ for numbers in range (1,21):
         print(f"{numbers} is even") 
     else:
         print(f"{numbers} is odd")
+        
